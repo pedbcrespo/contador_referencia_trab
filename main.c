@@ -3,8 +3,8 @@
 #include"contador_ref.h"
 
 /*
-    Para executar:
-    abra a pasta pelo terminal (cmd caso esteja no windows) e digite, para compilar:
+    Para compilar: 
+    abra a pasta pelo terminal (cmd caso esteja no windows) e digite:
         gcc main.c contador_ref.c -o main.exe
     para executar:
         main.exe

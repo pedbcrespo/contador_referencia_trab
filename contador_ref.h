@@ -1,5 +1,5 @@
 /*
-    Neste arquivo esta o escopo das principais funçoes que serao ultilizadas na main
+    Aqui neste arquivo esta o escopo das principais funçoes que serao ultilizadas na main
 
     Ao instanciar a estrutura tabela, é necessario chamar a funçao inicializa. E ao final do programa, 
     a fim de manter a ideia de manipular bem o uso da memoria, é preciso usar a funcao destruir para liberar 

@@ -3,7 +3,7 @@
 #include"contador_ref.h"
 
 /*
-    No arquivo contador_ref.h estavbeleci apenas o escopo das funcoes e estruturas, mas nada foi de fato criado,
+    No arquivo contador_ref.h estabeleci apenas o escopo das funcoes e estruturas, mas nada foi de fato criado,
 ate momento.
     Neste arquivo, é desenvolvido as funcoes estabelecidas. Importante ressaltar que neste tipo de arquivo pode
 acontecer de ter funcoes nao definidas no arquivo .h.
